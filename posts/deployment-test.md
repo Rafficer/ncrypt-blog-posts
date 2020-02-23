@@ -222,6 +222,11 @@ Term 2 with *inline markup*
 
     Third paragraph of definition 2.
 
+```python
+import os
+
+print(os.wow)
+```
 _Compact style:_
 
 Term 1
