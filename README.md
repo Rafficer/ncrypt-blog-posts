@@ -14,3 +14,7 @@
 6. Wait for the PR to be approved. The changes will then be live with the next server update.
 
 No idea how all of this works? Check out the [first-contributions](https://github.com/firstcontributions/first-contributions) repository for an extensive and easy to understand step-by-step guide.
+
+## Images
+
+Think something is wrong with an image in a post? With the current structure I couldn't put the image directory in this repository. Therefore, please submit the images in an issue or PR and I'll add them manually.
