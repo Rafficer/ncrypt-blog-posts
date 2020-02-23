@@ -2,7 +2,7 @@
 
 ## What it is
 
-[blog.ncrypt.sh](https://blog.ncrypt.sh) is a blog with mostly guides on various topics, where I thought it'd by nice to have and might help out others. Since guides often get old and unusable over the years, it would be great to have the option (as a reader) to submit changes to keep them up to date. This way the Author (me) just needs to accept the Pull Request and the website gets updated automatically.
+[blog.ncrypt.sh](https://blog.ncrypt.sh) is a blog with mostly guides on various topics, where I thought they'd be nice to have and could help out others. Since guides often get old and unusable over the years, it would be great to have the option (as a reader) to submit changes to keep them up to date. This way the Author (me) just needs to accept the Pull Request and the website gets updated automatically.
 
 ## How it works
 
